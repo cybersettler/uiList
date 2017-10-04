@@ -139,7 +139,7 @@ function hasHtmlTemplate(widget) {
 }
 
 function getTemplateFromViewContent(widget) {
-    return widget.view.querySelector('[data-role=template]').textContent;
+    return widget.view.querySelector('[data-role=template]').innerHTML;
 }
 
 function getTypeFromAttributeOrDisplay(widget) {
