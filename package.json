@@ -1,0 +1,36 @@
+{
+  "name": "ui-list",
+  "version": "0.1.0",
+  "description": "List websemble component",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/component/ui/List"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybersettler/uiList.git"
+  },
+  "keywords": [
+    "websemble",
+    "html5",
+    "webcomponent",
+    "electron"
+  ],
+  "author": "cybersettler@babylonone.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cybersettler/uiList/issues"
+  },
+  "homepage": "https://github.com/cybersettler/uiList#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "d3": "^4.10.2",
+    "handlebars": "^4.0.10",
+    "i18next": "^9.0.0",
+    "jsdom": "^11.2.0",
+    "mocha": "^3.5.0"
+  }
+}
