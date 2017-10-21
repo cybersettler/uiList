@@ -1,0 +1,23 @@
+{
+  "name": "uiList",
+  "description": "List websemble component",
+  "main": "index.js",
+  "authors": [
+    "cybersettler@babylonone.com"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "websemble",
+    "html5",
+    "webcomponent",
+    "electron"
+  ],
+  "homepage": "https://github.com/cybersettler/uiList",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
